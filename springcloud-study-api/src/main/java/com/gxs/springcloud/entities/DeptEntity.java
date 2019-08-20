@@ -30,4 +30,7 @@ public class DeptEntity implements Serializable{
      */
     private String dbSource;
 
+
+    //aoming
+
 }
